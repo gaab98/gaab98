@@ -14,18 +14,18 @@ Sou desenvolvedor de software, com interesse em backend, arquitetura de microsse
 
 ### 🛠️ Tecnologias e Ferramentas
 
-Java & Spring Boot
-Python
-JavaScript
-TypeScript 
-Node.js
-React
-MySQL
-MongoDB
-PostgreSQL
-Docker
-Git e GitHub
-Linux
+- Java & Spring Boot
+- Python
+- JavaScript
+- TypeScript 
+- Node.js
+- React
+- MySQL
+- MongoDB
+- PostgreSQL
+- Docker
+- Git e GitHub
+- Linux
 
 ---
 
