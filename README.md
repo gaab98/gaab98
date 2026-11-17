@@ -1,16 +1,42 @@
-## Hi there 👋
+## Olá, eu sou Gabriel Alegre 👋
 
-<!--
-**gaab98/gaab98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou desenvolvedor de software, com interesse em backend, arquitetura de microsserviços, Cloud e IA.
 
-Here are some ideas to get you started:
+- 🎓 Estudante de Análise e Desenvolvimento de Sistemas
+- 💻 Formado no Bootcamp Desenvolvedor Java Full Stack pela Generation Brasil
+- ☁️ Estudante de AWS e Cloud pela Escola da Nuvem
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 Contato
+- 💼 [LinkedIn](https://www.linkedin.com/in/gabriel-al/)
+- ✉️ [E-mail](mailto:gabrielt1406@gmail.com)
+
+---
+
+### 🛠️ Tecnologias e Ferramentas
+
+Java & Spring Boot
+Python
+JavaScript
+TypeScript 
+Node.js
+React
+MySQL
+MongoDB
+PostgreSQL
+Docker
+Git e GitHub
+Linux
+
+---
+
+### 🤖 IA e Automação
+- Fundamentos de IA: Machine Learning, LLMs, IA Generativa e Agentes
+- Prompt Engineering
+
+---
+
+### 📚 Em Aprendizado
+- AWS e Cloud Computing
+- Comunicação assíncrona via message brokers (RabbitMQ / Kafka)
+- Automação utilizando n8n
+- Orquestração de agentes de IA
